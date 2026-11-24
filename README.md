@@ -1,8 +1,8 @@
-# Backend Study Notes
+# Java Backend Study Notes
 
 [简体中文](README.zh-CN.md)
 
-My Chinese-language study notes on Java backend development, with diagrams and code examples. The collection brings together my own learning notes and excerpts from online sources. Corrections are welcome.
+Chinese-language Java backend study notes, with diagrams and code examples on authentication, persistence, collections and system fundamentals. The collection includes my own notes and excerpts from online sources.
 
 | Topic | Start here |
 | --- | --- |
